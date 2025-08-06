@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" start="node1" hassounds="0" appversion="7.1.9">
+  <panorama id="node1">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-107.235" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node1" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-107.235" comment="Isencar Despachante e Isenções PcD" latitude="-23.57295130" customnodeid="" longitude="-46.64533864"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="16.0143" url="{node2}" target="$fwd" distance="3.24286" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-97.5851" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node2" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-97.5851" comment="Isencar Despachante e Isenções PcD" latitude="-23.57296729" customnodeid="" longitude="-46.64536525"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="-154.336" url="{node1}" target="$fwd" distance="3.24286" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="4.89938" url="{node3}" target="$fwd" distance="4.26931" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-102.72" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node3" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-102.72" comment="Isencar Despachante e Isenções PcD" latitude="-23.57297559" customnodeid="" longitude="-46.64540615"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="-180.236" url="{node2}" target="$fwd" distance="4.26931" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="1.85368" url="{node4}" target="$fwd" distance="3.53084" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-193.342" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node4" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-193.342" comment="Isencar Despachante e Isenções PcD" latitude="-23.57298358" customnodeid="" longitude="-46.64543968"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="-268.768" url="{node3}" target="$fwd" distance="3.53084" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="-354.738" url="{node5}" target="$fwd" distance="3.64179" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-198.444" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node5" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-198.444" comment="Isencar Despachante e Isenções PcD" latitude="-23.57301462" customnodeid="" longitude="-46.64542828"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="-179.84" url="{node4}" target="$fwd" distance="3.64179" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="-350.232" url="{node6}" target="$fwd" distance="3.17988" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="33.4345" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node6" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="33.4345" comment="Isencar Despachante e Isenções PcD" latitude="-23.57303982" customnodeid="" longitude="-46.64541353"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="61.6469" url="{node5}" target="$fwd" distance="3.17988" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="-3.12683" url="{node7}" target="$fwd" distance="3.78624" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-49.9752" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node7" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-49.9752" comment="Isencar Despachante e Isenções PcD" latitude="-23.57301247" customnodeid="" longitude="-46.64539140"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="93.4635" url="{node6}" target="$fwd" distance="3.78624" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="-0.519886" url="{node8}" target="$fwd" distance="3.73249" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="309.194" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node8" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="309.194" comment="Isencar Despachante e Isenções PcD" latitude="-23.57299065" customnodeid="" longitude="-46.64541923"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="178.649" url="{node7}" target="$fwd" distance="3.73249" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="367.45" url="{node9}" target="$fwd" distance="3.89729" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-472.844" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node9" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-472.844" comment="Isencar Despachante e Isenções PcD" latitude="-23.57297221" customnodeid="" longitude="-46.64545175"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="-594.588" url="{node8}" target="$fwd" distance="3.89729" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point02" pan="-441.276" url="{node10}" target="$fwd" distance="2.80723" skinid="ht_node"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point03" pan="-342.911" url="{node11}" target="$fwd" distance="3.83184" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-575.824" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node10" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="-575.824" comment="Isencar Despachante e Isenções PcD" latitude="-23.57295070" customnodeid="" longitude="-46.64546617"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="-724.256" url="{node9}" target="$fwd" distance="2.80723" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="2000" levelingroll="0" levelingpitch="0" width="2000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="108.525" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node11" title="Isencar Despachante e Isenções PcD" description="Isencar Despachante e Isenções PcD" author="Isencar Despachante e Isenções PcD" copyright="Isencar Despachante e Isenções PcD" source="Isencar Despachante e Isenções PcD" datetime="29/07/2025 08:36" tags="OFIII" info="Isencar Despachante e Isenções PcD" heading="108.525" comment="Isencar Despachante e Isenções PcD" latitude="-23.57299433" customnodeid="" longitude="-46.64548058"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" width="180" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="Isencar Despachante e Isenções PcD" description="" tilt="0" id="Point01" pan="58.4581" url="{node9}" target="$fwd" distance="3.83184" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" zoomspeed="2" zoomin="7" enabled="1" delay="none" zoomfov="40" zoomafterinfov="140" softedge="0" type="mesh" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" dblclickfullscreen="0" zoomcentercursor="1" contextprojections="0" simulatemass="1" speedwheel="1" sensitivity="8" hideabout="0" lockedkeyboard="0" contextfullscreen="1" lockedwheel="0" contextvr="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" author="" tags="" copyright="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
